@@ -21,7 +21,7 @@ This Project is created with:
 * Visual Studio 2019
 
 Requirements:
-* Windows 0S
+* Windows OS
 * Microsoft Outlook
 
 	
