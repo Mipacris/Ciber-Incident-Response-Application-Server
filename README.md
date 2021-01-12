@@ -20,8 +20,10 @@ This Project is created with:
 * C#
 * Visual Studio 2019
 
-This Project uses:
+Requirements:
+* Windows 0S
 * Microsoft Outlook
+
 	
 ## Setup
 
@@ -31,9 +33,9 @@ This Project uses:
 
 3. You can open both server and the application and login as:
 
-  Username: a 
+  Username: admin	 
   
-  Password: a 
+  Password: admin
   
 **Security Warning!** - This should be changed after inside the Admin Config by creating a new admin user and by deleting this default account.
 
