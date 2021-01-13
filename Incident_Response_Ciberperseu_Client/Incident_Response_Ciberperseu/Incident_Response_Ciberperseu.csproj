@@ -58,11 +58,10 @@
     <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>38EBAFFDDB7B354DAB729650E7BDE6743BDFB367</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>D9358281ADF5E5DE4AEDDBF860DD090CA77EE3E0</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>
-    </ManifestKeyFile>
+    <ManifestKeyFile>Incident_Response_Ciberperseu_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <SignManifests>true</SignManifests>
