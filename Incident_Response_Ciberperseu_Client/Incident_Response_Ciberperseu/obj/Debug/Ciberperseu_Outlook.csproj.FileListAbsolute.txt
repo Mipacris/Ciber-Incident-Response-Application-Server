@@ -1,0 +1,85 @@
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\bin\Debug\Ciberperseu_Outlook.exe.config
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\bin\Debug\Ciberperseu_Outlook.exe.manifest
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\bin\Debug\Ciberperseu_Outlook.application
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\bin\Debug\Ciberperseu_Outlook.exe
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\bin\Debug\Ciberperseu_Outlook.pdb
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.App_Window.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Geral.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Login.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Missoes.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.outlook.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Properties.Resources.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Read_Mission.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.csproj.GenerateResource.cache
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.TrustInfo.xml
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.exe.manifest
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.application
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.exe
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.pdb
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.csprojAssemblyReference.cache
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.About_Sobre_InfoWindow.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Admin_Config_Tab.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.criar_perfil.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Logs_Viewer.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Read_Content_Outlook.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Resposta_ao_Incidente.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.mails.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.User_Geral_Read.resources
+C:\Users\Miguel Ângelo\Desktop\Programas\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.chat.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.About_Sobre_InfoWindow.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Admin_Config_Tab.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.App_Window.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.criar_perfil.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.chat.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Geral.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Login.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Logs_Viewer.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.mails.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Missoes.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.outlook.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Read_Content_Outlook.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Read_Mission.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Resposta_ao_Incidente.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.User_Geral_Read.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\bin\Debug\Ciberperseu_IUEM.exe.config
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\bin\Debug\Ciberperseu_IUEM.exe.manifest
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\bin\Debug\Ciberperseu_IUEM.application
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\bin\Debug\Ciberperseu_IUEM.exe
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\bin\Debug\Ciberperseu_IUEM.pdb
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.Properties.Resources.resources
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.TrustInfo.xml
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.exe.manifest
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.application
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.exe
+C:\Users\Home\Desktop\Projetos\Ciberperseu_Outlook\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.pdb
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\bin\Debug\Ciberperseu_IUEM.exe.config
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\bin\Debug\Ciberperseu_IUEM.exe.manifest
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\bin\Debug\Ciberperseu_IUEM.application
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\bin\Debug\Ciberperseu_IUEM.exe
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\bin\Debug\Ciberperseu_IUEM.pdb
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.About_Sobre_InfoWindow.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Admin_Config_Tab.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.App_Window.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.criar_perfil.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.chat.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Geral.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Login.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Logs_Viewer.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.mails.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Missoes.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.outlook.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.Properties.Resources.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Read_Content_Outlook.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Read_Mission.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.Resposta_ao_Incidente.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.User_Geral_Read.resources
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_Outlook.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.TrustInfo.xml
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.exe.manifest
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.application
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.exe
+C:\Users\Miguel\Desktop\Miguel\Projetos\Ciberperseu_Client\Ciberperseu_Outlook\obj\Debug\Ciberperseu_IUEM.pdb
