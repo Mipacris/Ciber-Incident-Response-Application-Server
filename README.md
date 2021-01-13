@@ -1,4 +1,4 @@
-# Ciber Incident Response Application/Server
+# Cyber Incident Response Application/Server
 
 ## Table of Contents
 * [General info](#general-info)
