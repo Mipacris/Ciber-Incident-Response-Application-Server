@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incident_Response_Ciber", "Incident_Response_Ciber\Incident_Response_Ciber.csproj", "{17088079-0004-4432-B309-4070453BD1D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17088079-0004-4432-B309-4070453BD1D9}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{17088079-0004-4432-B309-4070453BD1D9}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{17088079-0004-4432-B309-4070453BD1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17088079-0004-4432-B309-4070453BD1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3802703-93C7-4F89-8805-A3893BAA39F9}
+	EndGlobalSection
+EndGlobal

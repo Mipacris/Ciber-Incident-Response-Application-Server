@@ -1,0 +1,10 @@
+C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Server_Console\ciber_server_console\bin\Release\ciber_server_console.exe.config
+C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Server_Console\ciber_server_console\bin\Release\ciber_server_console.exe.manifest
+C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Server_Console\ciber_server_console\bin\Release\ciber_server_console.application
+C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Server_Console\ciber_server_console\bin\Release\ciber_server_console.exe
+C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Server_Console\ciber_server_console\bin\Release\ciber_server_console.pdb
+C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Server_Console\ciber_server_console\obj\Release\ciber_server_console.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Server_Console\ciber_server_console\obj\Release\ciber_server_console.exe.manifest
+C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Server_Console\ciber_server_console\obj\Release\ciber_server_console.application
+C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Server_Console\ciber_server_console\obj\Release\ciber_server_console.exe
+C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Server_Console\ciber_server_console\obj\Release\ciber_server_console.pdb
