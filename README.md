@@ -41,7 +41,7 @@ Requirements:
 
 4. (Optional) You should eventually change the server application signing key
 
-![Capturar](https://user-images.githubusercontent.com/37298800/104387054-40dcc980-552e-11eb-8384-6a6b4424531b.PNG)
+![signing](https://user-images.githubusercontent.com/37298800/104390557-e5aed500-5535-11eb-93ea-8fb349fa3bab.png)
 
 ## Things to be done
 
