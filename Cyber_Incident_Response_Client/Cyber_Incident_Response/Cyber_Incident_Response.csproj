@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{17088079-0004-4432-B309-4070453BD1D9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Cyber_Incident_Response</RootNamespace>
+    <AssemblyName>Cyber_Incident_Response</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Miguel\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>D9358281ADF5E5DE4AEDDBF860DD090CA77EE3E0</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Incident_Response_Ciberperseu_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>cyber_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Outlook.15.0.4797.1003\lib\net20\Microsoft.Office.Interop.Outlook.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About_Sobre_InfoWindow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="About_Sobre_InfoWindow.Designer.cs">
+      <DependentUpon>About_Sobre_InfoWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Config\Admin_Config_Tab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_Config\Admin_Config_Tab.Designer.cs">
+      <DependentUpon>Admin_Config_Tab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App_Window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App_Window.Designer.cs">
+      <DependentUpon>App_Window.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Config\criar_perfil.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_Config\criar_perfil.Designer.cs">
+      <DependentUpon>criar_perfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="chat.Designer.cs">
+      <DependentUpon>chat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Geral.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Geral.Designer.cs">
+      <DependentUpon>Geral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Config\Logs_Viewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_Config\Logs_Viewer.Designer.cs">
+      <DependentUpon>Logs_Viewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Config\mails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_Config\mails.Designer.cs">
+      <DependentUpon>mails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Missoes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Missoes.Designer.cs">
+      <DependentUpon>Missoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="outlook.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="outlook.Designer.cs">
+      <DependentUpon>outlook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Janelas_Leitura\Read_Content_Outlook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas_Leitura\Read_Content_Outlook.Designer.cs">
+      <DependentUpon>Read_Content_Outlook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Janelas_Leitura\Read_Mission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas_Leitura\Read_Mission.Designer.cs">
+      <DependentUpon>Read_Mission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Janelas_Leitura\Resposta_ao_Incidente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas_Leitura\Resposta_ao_Incidente.Designer.cs">
+      <DependentUpon>Resposta_ao_Incidente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Janelas_Leitura\User_Geral_Read.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas_Leitura\User_Geral_Read.Designer.cs">
+      <DependentUpon>User_Geral_Read.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About_Sobre_InfoWindow.resx">
+      <DependentUpon>About_Sobre_InfoWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Config\Admin_Config_Tab.resx">
+      <DependentUpon>Admin_Config_Tab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App_Window.resx">
+      <DependentUpon>App_Window.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Config\criar_perfil.resx">
+      <DependentUpon>criar_perfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chat.resx">
+      <DependentUpon>chat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Geral.resx">
+      <DependentUpon>Geral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Config\Logs_Viewer.resx">
+      <DependentUpon>Logs_Viewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Config\mails.resx">
+      <DependentUpon>mails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Missoes.resx">
+      <DependentUpon>Missoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="outlook.resx">
+      <DependentUpon>outlook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Janelas_Leitura\Read_Content_Outlook.resx">
+      <DependentUpon>Read_Content_Outlook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas_Leitura\Read_Mission.resx">
+      <DependentUpon>Read_Mission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas_Leitura\Resposta_ao_Incidente.resx">
+      <DependentUpon>Resposta_ao_Incidente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas_Leitura\User_Geral_Read.resx">
+      <DependentUpon>User_Geral_Read.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cyber_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
