@@ -29,7 +29,7 @@ Requirements:
 
 1. You can either use the project folder in Visual Studio 2019, compile it and run it or you can use the already compiled solutions in the project folder (the executable format).
 
-2. You need to copy the **ciberperseu_cert.pfx** digital certificate to the Server **(C:/)** directory. In real use case, you should use your own organization digital certificate for security purposes.
+2. You need to copy the **ciber_cert.pfx** digital certificate to the Server **(C:/)** directory. In real use case, you should use your own organization digital certificate for security purposes.
 
 3. You can open both server and the application and login as:
 
