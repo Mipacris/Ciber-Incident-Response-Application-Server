@@ -16,7 +16,7 @@ The application has a number of functionalities that makes it accessible and eas
 **Currently the application is in Portuguese only... In future updates there should be more language options...**
 	
 ## Technologies
-This Project is created with:
+This Project was created with:
 * C#
 * Visual Studio 2019
 
