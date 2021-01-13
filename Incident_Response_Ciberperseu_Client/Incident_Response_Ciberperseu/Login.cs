@@ -87,6 +87,9 @@ namespace Incident_Response_Ciberperseu
                 // Create a TCP/IP  socket.    
                 TcpClient client = new TcpClient(ip_box.Text, Convert.ToInt32(port_box.Text));
 
+                // Memorize the IP_Address for App_Window.cs
+                IP_address = ip_box.Text;
+
                 NetworkStream netStream = client.GetStream();
                 // SSL Stream
                 sslstream = new SslStream(netStream, false,
