@@ -1,0 +1,10 @@
+C:\Users\Miguel\Documents\GitHub\Cyber-Incident-Response-Application-Server\Cyber_Incident_Response_Server_Console\cyber_server_console\bin\Release\cyber_server_console.exe.config
+C:\Users\Miguel\Documents\GitHub\Cyber-Incident-Response-Application-Server\Cyber_Incident_Response_Server_Console\cyber_server_console\bin\Release\cyber_server_console.exe.manifest
+C:\Users\Miguel\Documents\GitHub\Cyber-Incident-Response-Application-Server\Cyber_Incident_Response_Server_Console\cyber_server_console\bin\Release\cyber_server_console.application
+C:\Users\Miguel\Documents\GitHub\Cyber-Incident-Response-Application-Server\Cyber_Incident_Response_Server_Console\cyber_server_console\bin\Release\cyber_server_console.exe
+C:\Users\Miguel\Documents\GitHub\Cyber-Incident-Response-Application-Server\Cyber_Incident_Response_Server_Console\cyber_server_console\bin\Release\cyber_server_console.pdb
+C:\Users\Miguel\Documents\GitHub\Cyber-Incident-Response-Application-Server\Cyber_Incident_Response_Server_Console\cyber_server_console\obj\Release\cyber_server_console.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\GitHub\Cyber-Incident-Response-Application-Server\Cyber_Incident_Response_Server_Console\cyber_server_console\obj\Release\cyber_server_console.exe.manifest
+C:\Users\Miguel\Documents\GitHub\Cyber-Incident-Response-Application-Server\Cyber_Incident_Response_Server_Console\cyber_server_console\obj\Release\cyber_server_console.application
+C:\Users\Miguel\Documents\GitHub\Cyber-Incident-Response-Application-Server\Cyber_Incident_Response_Server_Console\cyber_server_console\obj\Release\cyber_server_console.exe
+C:\Users\Miguel\Documents\GitHub\Cyber-Incident-Response-Application-Server\Cyber_Incident_Response_Server_Console\cyber_server_console\obj\Release\cyber_server_console.pdb
