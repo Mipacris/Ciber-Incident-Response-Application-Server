@@ -87,7 +87,6 @@ C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Serve
 C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Client\Incident_Response_Ciberperseu\bin\Debug\Incident_Response_Ciberperseu.application
 C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Client\Incident_Response_Ciberperseu\bin\Debug\Incident_Response_Ciberperseu.exe
 C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Client\Incident_Response_Ciberperseu\bin\Debug\Incident_Response_Ciberperseu.pdb
-C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Client\Incident_Response_Ciberperseu\obj\Debug\Incident_Response_Ciberperseu.csprojAssemblyReference.cache
 C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Client\Incident_Response_Ciberperseu\obj\Debug\Incident_Response_Ciberperseu.About_Sobre_InfoWindow.resources
 C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Client\Incident_Response_Ciberperseu\obj\Debug\Incident_Response_Ciberperseu.Admin_Config_Tab.resources
 C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Client\Incident_Response_Ciberperseu\obj\Debug\Incident_Response_Ciberperseu.App_Window.resources
@@ -110,3 +109,4 @@ C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Serve
 C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Client\Incident_Response_Ciberperseu\obj\Debug\Incident_Response_Ciberperseu.application
 C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Client\Incident_Response_Ciberperseu\obj\Debug\Incident_Response_Ciberperseu.exe
 C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Client\Incident_Response_Ciberperseu\obj\Debug\Incident_Response_Ciberperseu.pdb
+C:\Users\Miguel\Documents\GitHub\Ciberperseu-Incident-Response-Application-Server\Incident_Response_Ciberperseu_Client\Incident_Response_Ciberperseu\obj\Debug\Incident_Response_Ciberperseu.csprojAssemblyReference.cache
