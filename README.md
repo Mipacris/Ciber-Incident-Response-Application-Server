@@ -7,7 +7,7 @@
 * [Things to be done](#things-to-be-done)
 
 ## General info
-An incident response application and server! 
+An incident management and response application and server! 
 
 This application was created to help organization team's to easily manage the received incidents and further forward those incidents notifications to the incident response team. 
 
