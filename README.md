@@ -39,6 +39,10 @@ Requirements:
   
 **Security Warning!** - This should be changed after inside the Admin Config by creating a new admin user and by deleting this default account.
 
+4. (Optional) You should eventually change the server application signing key
+
+![Capturar](https://user-images.githubusercontent.com/37298800/104387054-40dcc980-552e-11eb-8384-6a6b4424531b.PNG)
+
 ## Things to be done
 
 Primary:
